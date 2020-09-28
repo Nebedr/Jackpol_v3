@@ -12,7 +12,7 @@ html{
     font-family: verdana;
 }
 header {
-  background: url(../img/359.jpg);
+  
   background-size: cover;
   text-align: center;
   color: black;
@@ -25,8 +25,25 @@ header .img{
 }
 .navbar-custom {
     background-color: white;
+   
+}
+
+#lang{
+    text-decoration: none;
+    
+
     
 }
+
+
+
+
+#lang a:hover{
+    text-decoration: none;
+    color: green;
+}
+
+
 h1{
     font-size: 4vw;
     font-weight: bolder;
@@ -99,7 +116,7 @@ li{
 }
 .navbar-brand{
     
-    padding-right: 50px;
+    padding-right: 15px;
 }
 #us0{
     background-image: url(../img/greenbanner.jpg);
